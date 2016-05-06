@@ -35,7 +35,7 @@ public class Cerradura {
 	}
 
 	public void cerrar() {
-		this.estaAbierta = false;
+		this.estaAbierta = true;
 	}
 
 	public boolean estaCerrada() {
