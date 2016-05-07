@@ -9,3 +9,4 @@ public class Cerradura {
 	public boolean estaCerrada()
 	public void cerrar()
 }
+
