@@ -12,7 +12,7 @@ public class Tambor {
 	
 	public void girar() {
 		Random ramdom = new Random();
-		valor = ramdom.nextInt(7) + 1;
+		valor = ramdom.nextInt(8) + 1;
 	}
 
 }
